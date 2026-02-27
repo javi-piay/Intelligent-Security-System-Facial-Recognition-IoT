@@ -151,7 +151,7 @@ This document summarizes architecture, implementation and results.
 
 Parts of this implementation were adapted from:
 
-- Facial recognition tutorial: [Reconocimiento Facial con Machine Learning en Python](https://www.codificandobits.com/blog/tutorial-reconocimiento-facial-python/). 
+- Facial recognition tutorial: [Reconocimiento Facial con Machine Learning en Python](https://codificandobits.com/tutorial/reconocimiento-facial-machine-learning-python/). 
 - AS608 fingerprint reference: [Fingerprint sensor AS608 with UNO](https://forum.arduino.cc/t/fingerprint-sensor-as608-with-uno/1118222).
 - FaceNet embeddings library: [`keras-facenet`](https://pypi.org/project/keras-facenet/).
 
