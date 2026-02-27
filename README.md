@@ -1,8 +1,10 @@
 # 🔐 AI-Powered Intelligent Security System (IoT + Facial Recognition)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![IoT](https://img.shields.io/badge/IoT-ESP32-green)
-![Deep Learning](https://img.shields.io/badge/DeepLearning-MobileNet+FaceNet-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-DeepLearning-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
+![IoT](https://img.shields.io/badge/IoT-ESP32-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 End-to-end intelligent security system integrating computer vision, IoT sensors and cloud connectivity.
