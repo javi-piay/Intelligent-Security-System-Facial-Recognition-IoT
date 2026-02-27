@@ -141,7 +141,7 @@ Arduino IoT Cloud code managing:
 
 📄 Project presentation available in:
 
-`/documentation/TFM_Presentation.pdf`
+[Download Presentation (PDF)](Presentation/AI_IoT_Security_System_summary.pdf)
 
 This document summarizes architecture, implementation and results.
 
