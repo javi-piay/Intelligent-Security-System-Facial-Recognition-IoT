@@ -1,26 +1,3 @@
-**Reconocimiento facial**
-
-Este archivo contiene el código del modelo de reconocimiento facial y el envío de datos a arduino Cloud. 
-Código adaptado de Tutorial: [Reconocimiento Facial con Machine Learning en Python](https://www.codificandobits.com/blog/tutorial-reconocimiento-facial-python/).
-
-**Registro huella dactilar**
-
-Este archivo contiene el código para registrar las huellas dactilares. 
-Código adaptado de [Fingerprint sensor AS608 with UNO](https://forum.arduino.cc/t/fingerprint-sensor-as608-with-uno/1118222).
-
-**Control de acceso dactilar**
-
-Este archivo contiene el código para leer y comparar las huellas dactilares almacenadas y para la creación de un servidor web que actualiza el estado del lector dactilar.
-
-**Control del sistema de seguridad Arduino Cloud**
-
-Este archivo contiene el código en Arduino Cloud que permite manejar todo el sistema de seguridad.
-
-**MobileNet:**
-frozen_inference_graph_face
-
-[FaceNet](https://pypi.org/project/keras-facenet/)
-
 # 🔐 AI-Powered Intelligent Security System (IoT + Facial Recognition)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -174,9 +151,9 @@ This document summarizes architecture, implementation and results.
 
 Parts of this implementation were adapted from:
 
-- Facial recognition tutorial: *Reconocimiento Facial con Machine Learning en Python* (Codificando Bits)  
-- AS608 fingerprint reference: *Fingerprint sensor AS608 with UNO* (Arduino Forum)  
-- FaceNet embeddings library: `keras-facenet`  
+- Facial recognition tutorial: [Reconocimiento Facial con Machine Learning en Python]((https://www.codificandobits.com/blog/tutorial-reconocimiento-facial-python/). 
+- AS608 fingerprint reference: [Fingerprint sensor AS608 with UNO] (https://forum.arduino.cc/t/fingerprint-sensor-as608-with-uno/1118222).
+- FaceNet embeddings library: [`keras-facenet`] (https://pypi.org/project/keras-facenet/).
 
 ---
 
